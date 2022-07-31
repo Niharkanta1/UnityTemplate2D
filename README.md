@@ -1,6 +1,8 @@
-# SAMPLE PROJECT TEMPLATE #
+# SAMPLE PROJECT TEMPLATE 2D #
 
-A Simple unity project 2D template with Cinemachine, New Input System and URP
+A Simple unity project 2D template with Cinemachine, New Input System and URP.
+
+_Note: A Sample input action is provided in the template with WASD and Jump button for Keyboard and Any Gamepad controller. Universal Render pipeline assets are alreay present in the template._
 
 Contains the below modules.
 ------------------------------
