@@ -25,3 +25,12 @@ Steps to use:
 Template Verison - 1.1 <br/>
 Created by - Nihar
 
+Keep Only Folders for template:
+---
+Assets
+Packages
+ProjectSettings
+UserSettings
+.gitignore
+Default-layout-2.wlt
+README.md
